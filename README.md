@@ -20,5 +20,5 @@ Small Java console project that implements a simple cache with string keys and i
 ## How to run
 
 ```bash
-mvn compile
+mvn compile 
 mvn exec:java -Dexec.mainClass="org.example.Main"
